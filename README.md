@@ -25,6 +25,7 @@ Question 3 :
 - git checkout dev
 
 Question 4 :
+
 	Premier commit :
 	- git add JeSuisUnProjetCSharp
 	- git add JeSuisUnProjetCSharp.sln
@@ -44,3 +45,6 @@ Question 4 :
 Question 5 :
 - git checkout master
 - git merge dev
+
+Question 6 :
+- git clone https://github.com/TheSora06/PartielIV_CSharp.git
