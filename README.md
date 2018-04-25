@@ -21,3 +21,5 @@ Question 1 et 2 :
 - Je me suis identifié
 
 Question 3 :
+- git checkout -b "dev"
+- git checkout dev
