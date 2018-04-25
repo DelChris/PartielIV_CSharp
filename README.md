@@ -24,18 +24,23 @@ Question 3 :
 - git checkout -b "dev"
 - git checkout dev
 
-Premier commit
-- git add JeSuisUnProjetCSharp
-- git add JeSuisUnProjetCSharp.sln
-- git commit -m "First commit in dev branch"
-- git push -u origin dev
+Question 4 :
+	Premier commit :
+	- git add JeSuisUnProjetCSharp
+	- git add JeSuisUnProjetCSharp.sln
+	- git commit -m "First commit in dev branch"
+	- git push -u origin dev
 
-Deuxième commit:
-- git add README.md
-- git commit -m "Second commit in dev branch"
-- git push -u origin dev
+	Deuxième commit:
+	- git add README.md
+	- git commit -m "Second commit in dev branch"
+	- git push -u origin dev
 
-Troisième commit (comme j'ai oublié de remplir le README.md) :
-- git add README.md
-- git commit -m "Third commit in dev branch"
-- git push -u origin dev
+	Troisième commit (comme j'ai oublié de remplir le README.md) :
+	- git add README.md
+	- git commit -m "Third commit in dev branch"
+	- git push -u origin dev
+
+Question 5 :
+- git checkout master
+- git merge dev
