@@ -11,6 +11,7 @@ namespace JeSuisUnProjetCSHARP
         static void Main(string[] args)
         {
             Console.WriteLine("Je suis un terminal !");
+            Console.WriteLine("Coucou le monde !");
         }
     }
 }
